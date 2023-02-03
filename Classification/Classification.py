@@ -1,4 +1,4 @@
-#分類
+#分類器
 import torch
 import torchvision
 import torchvision.transforms as transforms

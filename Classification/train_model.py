@@ -1,4 +1,4 @@
-#識別モデル
+#識別モデルの作成
 import torch
 import torchvision
 import torchvision.transforms as transforms
